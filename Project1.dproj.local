@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/02/20 16:36:52.430,=C:\Users\marco\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/20 16:39:24.603,C:\Users\marco\OneDrive\Área de Trabalho\Sistema de Caixa\TelaCadastro.pas=C:\Users\marco\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/20 16:39:24.603,C:\Users\marco\OneDrive\Área de Trabalho\Sistema de Caixa\TelaCadastro.dfm=C:\Users\marco\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/02/20 16:40:26.715,C:\Users\marco\OneDrive\Área de Trabalho\Sistema de Caixa\Project1.dproj=C:\Users\marco\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/02/20 16:40:31.124,=C:\Users\marco\OneDrive\Área de Trabalho\Sistema de Caixa\ModelSupport_Project1\default.txaPackage</Transaction>
+  </Transactions>
+</BorlandProject>
