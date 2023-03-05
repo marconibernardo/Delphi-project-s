@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2023/02/20 16:36:52.430,=C:\Users\marco\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/02/20 16:39:24.603,C:\Users\marco\OneDrive\Área de Trabalho\Sistema de Caixa\TelaCadastro.pas=C:\Users\marco\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/02/20 16:39:24.603,C:\Users\marco\OneDrive\Área de Trabalho\Sistema de Caixa\TelaCadastro.dfm=C:\Users\marco\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2023/02/20 16:40:26.715,C:\Users\marco\OneDrive\Área de Trabalho\Sistema de Caixa\Project1.dproj=C:\Users\marco\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2023/02/20 16:40:31.124,=C:\Users\marco\OneDrive\Área de Trabalho\Sistema de Caixa\ModelSupport_Project1\default.txaPackage</Transaction>
+	<Transactions>
+    <Transaction>2023/02/22 08:53:40.000.759,=B:\Portifolio DELPHI\Unit1.pas</Transaction>
+    <Transaction>2023/02/22 08:56:19.634,=B:\Portifolio DELPHI\Unit1.pas</Transaction>
+    <Transaction>2023/02/22 09:34:05.005,B:\Portifolio DELPHI\testedecelular.fmx=B:\Portifolio DELPHI\Unit1.fmx</Transaction>
+    <Transaction>2023/02/22 09:34:05.005,B:\Portifolio DELPHI\testedecelular.pas=B:\Portifolio DELPHI\Unit1.pas</Transaction>
+    <Transaction>2023/02/22 09:34:07.581,B:\Portifolio DELPHI\Project1.dproj=B:\Portifolio DELPHI\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>

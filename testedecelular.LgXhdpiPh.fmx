@@ -1,0 +1,7 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  Caption = 'teste'
+  Color = claSpringgreen
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 0
+end

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/16 15:29:29.000.034,=B:\Unit1.pas</Transaction>
+    <Transaction>2023/02/16 15:31:14.000.663,B:\Unit1.dfm=C:\Users\marco\OneDrive\Área de Trabalho\Primeiro Sistema de cad.livros  em Delphi\unicadastro.dfm</Transaction>
+    <Transaction>2023/02/16 15:31:14.000.663,B:\Unit1.pas=C:\Users\marco\OneDrive\Área de Trabalho\Primeiro Sistema de cad.livros  em Delphi\unicadastro.pas</Transaction>
+    <Transaction>2023/02/16 15:31:36.000.196,B:\Project1.dproj=C:\Users\marco\OneDrive\Área de Trabalho\Primeiro Sistema de cad.livros  em Delphi\PaginadeCadastro.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

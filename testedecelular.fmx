@@ -1,0 +1,32 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    Position.X = 64.000000000000000000
+    Position.Y = 584.000000000000000000
+    TabOrder = 0
+    Text = 'Button1'
+  end
+  object CheckBox1: TCheckBox
+    Position.X = 168.000000000000000000
+    Position.Y = 408.000000000000000000
+    TabOrder = 1
+    Text = 'CheckBox1'
+  end
+  object ProgressBar1: TProgressBar
+    Orientation = Horizontal
+    Position.X = 208.000000000000000000
+    Position.Y = 136.000000000000000000
+  end
+  object PathLabel1: TPathLabel
+    Position.X = 56.000000000000000000
+    Position.Y = 144.000000000000000000
+  end
+end
